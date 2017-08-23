@@ -1,2 +1,2 @@
 # graphVE
-w/o built-in | an experimental approach to graphs
+w/o built-in | experimental approach to graphs
